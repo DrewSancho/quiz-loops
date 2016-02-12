@@ -32,7 +32,7 @@ var questions = [
 		correct: '19'
 	},
 	{
-		question: 'In JS, what does double ! equal?:',
+		question: 'In JS, what does double ! literally mean?:',
 		answers: ['False ', 'Double False ', 'True ', 'Double True'],
 		correct: 'double false'
 	},
@@ -62,7 +62,7 @@ var questions = [
 		correct: 'transfer'
 	},
 	{
-		question: 'What does || mean:',
+		question: 'What does || mean?:',
 		answers: ['And ', 'Or ', 'Both ', 'Neither'],
 		correct: 'or'
 	},
